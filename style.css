@@ -1,0 +1,9 @@
+#forms{
+    background-color: blueviolet;
+    width: 400px;
+    text-align: center;
+    border-radius: 15px;
+    height: 500px;
+    color: bisque;
+    position:relative;
+}
